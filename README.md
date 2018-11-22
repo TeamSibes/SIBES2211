@@ -1,2 +1,3 @@
-# SIBES2211
-SIBES-RESPALDO
+# SIBES-RESPALDO
+
+Documento del proyecto sibes.
